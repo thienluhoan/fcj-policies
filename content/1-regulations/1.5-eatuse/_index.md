@@ -15,15 +15,14 @@ pre: " <b> 1.5. </b> "
 
 ### 📌 Quy định sử dụng đồ dùng văn phòng
 
-**ĐƯỢC PHÉP sử dụng:**
-- Nước lọc
-- Cà phê
-- Đường (trà...)
-- Đá
-- Sữa đặc
-- Sữa tươi
+**KHÔNG ĐƯỢC PHÉP sử dụng khu vực ngoài pantry bao gồm:**
 
-**KHÔNG ĐƯỢC PHÉP sử dụng:**
 - Nước ngọt (trong tủ lạnh nhỏ)
 - Bia, rượu
 - Đồ ăn của events
+- Nước lọc
+- Cà phê
+- Đường (trà…)
+- Đá
+- Sữa đặc
+- Sữa tươi

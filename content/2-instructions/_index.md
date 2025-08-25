@@ -13,8 +13,9 @@ Hãy xem đây như một cẩm nang nhập môn, hỗ trợ bạn dễ dàng ti
 
 #### Nội dung
 
-1.  [Hướng dẫn đăng ký lên văn phòng](2.1-register)
-2.  [Hướng dẫn di chuyển đến văn phòng](2.-instructions/2.2-moving)
-3.  [Hướng dẫn điểm danh](2.3-attendance)
-4.  [Hướng dẫn mua áo đồng phục](2.4-uniforms/)
-5.  [Hướng dẫn dịch blogs](2.5-blogs)
+1.  [Hướng dẫn đăng ký lên văn phòng](2-instructions/2.1-register/)
+2.  [Hướng dẫn di chuyển đến văn phòng](2-instructions/2.2-moving/)
+3.  [Hướng dẫn điểm danh](2-instructions/2.3-attendance/)
+4.  [Hướng dẫn mua áo đồng phục](2-instructions/2.4-uniform/)
+5.  [Hướng dẫn dịch blogs](2-instructions/2.5-blogs/)
+6.  [Hướng dẫn làm báo cáo cuối khóa - Workshop](2-instructions/2.6-workshop/)
