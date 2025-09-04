@@ -1,9 +1,9 @@
 ---
 title: "Hướng dẫn dịch blogs"
 date: "`r Sys.Date()`"
-weight: 5
+weight: 6
 chapter: false
-pre: " <b> 2.5. </b> "
+pre: " <b> 2.6. </b> "
 ---
 
 Dịch blogs aws cũng là một trong những công việc được yêu cầu trong khóa thực tập. Qua đó các bạn có thể cải thiện khả năng tiếng Anh của mình, ngoài ra đây cũng là một cách học rất tuyệt vời, giúp các bạn có thể học thêm được những kiến thức aws một cách hiệu quả hơn.
@@ -24,7 +24,7 @@ Trên aws blog có rất nhiều chủ đề:
 
 Với những chủ đề trên, bạn có thể chọn 1 hoặc nhiều chủ đề với những bài post khác nhau để đọc và hiểu. Sau khi đọc xong, các bạn cần dịch nguyên văn bài blog của người viết sang tiếng Việt dưới dạng markdown.
 
-Bạn có thể tham khảo các bài dịch mẫu tại đây: https://thienluhoan.github.io/workshop-template/3-blogstranslated/
+Bạn có thể tham khảo các bài dịch mẫu tại đây: https://thienluhoan.github.io/fcj-workshop-template/3-blogstranslated/
 
 ### 📌 Một số lưu ý
 

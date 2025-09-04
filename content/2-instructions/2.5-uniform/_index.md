@@ -1,9 +1,9 @@
 ---
 title: "Quy trình đăng ký mua áo FCJ"
 date: "`r Sys.Date()`"
-weight: 4
+weight: 5
 chapter: false
-pre: " <b> 2.4. </b> "
+pre: " <b> 2.5. </b> "
 ---
 
 ### 📌 Quy trình các bước đăng ký mua áo FCJ

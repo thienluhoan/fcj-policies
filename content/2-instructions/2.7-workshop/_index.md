@@ -1,9 +1,9 @@
 ---
 title: "Hướng dẫn làm báo cáo cuối khóa - Workshop"
 date: "`r Sys.Date()`"
-weight: 6
+weight: 7
 chapter: false
-pre: " <b> 2.6. </b> "
+pre: " <b> 2.7. </b> "
 ---
 
 Để thuận tiện cho team admin chấm điểm và đánh giá kết quả thực tập của các bạn sinh viên trong suốt quá trình thực tập, các bạn sẽ phải làm báo cáo và nộp về team admin trước khi kết thúc thời gian thực tập.
@@ -78,4 +78,4 @@ Chia sẻ cảm nhận, đánh giá, đề xuất để chương trình cải th
 - Sẵn sàng giới thiệu chương trình cho bạn bè không? Vì sao?  
 
 ### 📌 Project tham khảo
-Bạn có thể tham khảo project mẫu tại link sau: https://thienluhoan.github.io/workshop-template/
+Bạn có thể tham khảo project mẫu tại link sau: https://workshop-sample.fcjuni.com
