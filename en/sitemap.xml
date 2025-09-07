@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fcj-policies/en/categories/</loc>
+    <loc>https://thienluhoan.github.io/fcj-policies/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/fcj-policies/categories/"
+                href="https://thienluhoan.github.io/fcj-policies/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fcj-policies/en/categories/"
+                href="https://thienluhoan.github.io/fcj-policies/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fcj-policies/en/</loc>
+    <loc>https://thienluhoan.github.io/fcj-policies/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/fcj-policies/"
+                href="https://thienluhoan.github.io/fcj-policies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fcj-policies/en/"
+                href="https://thienluhoan.github.io/fcj-policies/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fcj-policies/en/tags/</loc>
+    <loc>https://thienluhoan.github.io/fcj-policies/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/fcj-policies/tags/"
+                href="https://thienluhoan.github.io/fcj-policies/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fcj-policies/en/tags/"
+                href="https://thienluhoan.github.io/fcj-policies/en/tags/"
                 />
   </url>
 </urlset>
