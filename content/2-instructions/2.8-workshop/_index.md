@@ -79,3 +79,5 @@ Chia sẻ cảm nhận, đánh giá, đề xuất để chương trình cải th
 
 ### 📌 Project tham khảo
 Bạn có thể tham khảo project mẫu tại link sau: https://workshop-sample.fcjuni.com
+
+Bạn có thể sử dụng template hugo sau để làm bài workshop của bạn: https://github.com/thienluhoan/Template-FCJ-Workshop

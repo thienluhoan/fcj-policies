@@ -12,7 +12,7 @@ Các bạn cần đăng ký trước khi lên văn phòng để team admin nắm
 
 #### Cách thức đăng ký
 
-- Truy cập trang web sau để đăng ký: [https://dangky.fcjuni.com](https://dangky.fcjuni.com/elites).
+- Truy cập trang web sau để đăng ký: [Đăng ký lên văn phòng](https://dangky.fcjuni.com).
         
 - Giao diện trang sẽ giống như hình sau:
         
