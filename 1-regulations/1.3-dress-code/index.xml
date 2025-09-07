@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quy định về trang phục và tác phong on Báo cáo thực tập</title>
-    <link>https://thienluhoan.github.io/fcj-policies/1-regulations/1.3-dress-code/</link>
+    <link>http://localhost:1313/fcj-policies/1-regulations/1.3-dress-code/</link>
     <description>Recent content in Quy định về trang phục và tác phong on Báo cáo thực tập</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
-    <atom:link href="https://thienluhoan.github.io/fcj-policies/1-regulations/1.3-dress-code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fcj-policies/1-regulations/1.3-dress-code/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

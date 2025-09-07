@@ -2,70 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/2.1-register/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.1-document/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/1-regulations/</loc>
+    <loc>http://localhost:1313/fcj-policies/1-regulations/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/</loc>
+    <loc>http://localhost:1313/fcj-policies/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thienluhoan.github.io/fcj-policies/en/"
+                href="http://localhost:1313/fcj-policies/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thienluhoan.github.io/fcj-policies/"
+                href="http://localhost:1313/fcj-policies/"
                 />
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/1-regulations/1.1-diligence/</loc>
+    <loc>http://localhost:1313/fcj-policies/1-regulations/1.1-diligence/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/2.2-parking/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.2-register/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/1-regulations/1.2-time/</loc>
+    <loc>http://localhost:1313/fcj-policies/1-regulations/1.2-time/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/2.3-moving/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.3-parking/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/1-regulations/1.3-dress-code/</loc>
+    <loc>http://localhost:1313/fcj-policies/1-regulations/1.3-dress-code/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/3-violations/</loc>
+    <loc>http://localhost:1313/fcj-policies/3-violations/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/2.4-attendance/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.4-moving/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/1-regulations/1.4-inout/</loc>
+    <loc>http://localhost:1313/fcj-policies/1-regulations/1.4-inout/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/1-regulations/1.5-eatuse/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.5-attendance/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/2.5-uniform/</loc>
+    <loc>http://localhost:1313/fcj-policies/1-regulations/1.5-eatuse/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/2.6-blogs/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.6-uniform/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/2-instructions/2.7-workshop/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.7-blogs/</loc>
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/categories/</loc>
+    <loc>http://localhost:1313/fcj-policies/2-instructions/2.8-workshop/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fcj-policies/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thienluhoan.github.io/fcj-policies/en/categories/"
+                href="http://localhost:1313/fcj-policies/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thienluhoan.github.io/fcj-policies/categories/"
+                href="http://localhost:1313/fcj-policies/categories/"
                 />
   </url><url>
-    <loc>https://thienluhoan.github.io/fcj-policies/tags/</loc>
+    <loc>http://localhost:1313/fcj-policies/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thienluhoan.github.io/fcj-policies/en/tags/"
+                href="http://localhost:1313/fcj-policies/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thienluhoan.github.io/fcj-policies/tags/"
+                href="http://localhost:1313/fcj-policies/tags/"
                 />
   </url>
 </urlset>

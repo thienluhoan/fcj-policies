@@ -1,20 +1,20 @@
 [
 {
-	"uri": "https://thienluhoan.github.io/fcj-policies/en/categories/",
+	"uri": "http://localhost:1313/fcj-policies/en/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://thienluhoan.github.io/fcj-policies/en/",
+	"uri": "http://localhost:1313/fcj-policies/en/",
 	"title": "Internship Report",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://thienluhoan.github.io/fcj-policies/en/tags/",
+	"uri": "http://localhost:1313/fcj-policies/en/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
