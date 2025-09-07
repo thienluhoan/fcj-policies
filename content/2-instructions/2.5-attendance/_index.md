@@ -1,9 +1,9 @@
 ---
 title: "Hướng dẫn điểm danh"
 date: "`r Sys.Date()`"
-weight: 4
+weight: 5
 chapter: false
-pre: " <b> 2.4. </b> "
+pre: " <b> 2.5. </b> "
 ---
 
 Để ghi nhận sự hiện diện của các bạn tại văn phòng, các bạn vui lòng thực hiện các bước bước sau để điểm danh khi tham gia lên văn phòng aws để học tập:

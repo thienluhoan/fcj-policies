@@ -21,13 +21,14 @@ I. [Nội quy](1-regulations/)
 
 II. [Hướng dẫn](2-instructions/)
 
-1.  [Hướng dẫn đăng ký lên văn phòng](2-instructions/2.1-register/)
-2.  [Hướng dẫn gửi xe máy](2-instructions/2.2-parking/)
-3.  [Hướng dẫn di chuyển lên văn phòng](2-instructions/2.3-moving/)
-4.  [Hướng dẫn điểm danh](2-instructions/2.4-attendance/)
-5.  [Hướng dẫn mua áo đồng phục](2-instructions/2.5-uniform/)
-6.  [Hướng dẫn dịch blogs](2-instructions/2.6-blogs/)
-7.  [Hướng dẫn làm báo cáo cuối khóa - Workshop](2-instructions/2.7-workshop/)
+1.  [Các nguồn tài liệu học tập](2-instructions/2.1-document/)
+2.  [Hướng dẫn đăng ký lên văn phòng](2-instructions/2.2-register//)
+3.  [Hướng dẫn gửi xe máy](2-instructions/2.3-parking/)
+4.  [Hướng dẫn di chuyển lên văn phòng](2-instructions/2.4-moving/)
+5.  [Hướng dẫn điểm danh](2-instructions/2.5-attendance/)
+6.  [Hướng dẫn mua áo đồng phục](2-instructions/2.6-uniform/)
+7.  [Hướng dẫn dịch blogs](2-instructions/2.7-blogs/)
+8.  [Hướng dẫn làm báo cáo cuối khóa - Workshop](2-instructions/2.8-workshop/)
   
 III. [Xử lý vi phạm](3-violations/)
 

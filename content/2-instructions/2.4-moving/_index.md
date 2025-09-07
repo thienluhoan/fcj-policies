@@ -1,9 +1,9 @@
 ---
 title: "Hướng dẫn di chuyển lên văn phòng"
 date: "`r Sys.Date()`"
-weight: 3
+weight: 4
 chapter: false
-pre: " <b> 2.3. </b> "
+pre: " <b> 2.4. </b> "
 ---
 
 Dưới đây là toàn bộ hướng dẫn chi tiết để giúp các bạn nào chưa từng đến văn phòng AWS có thể di chuyển một cách thuận tiện nhất có thể:

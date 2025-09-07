@@ -1,9 +1,9 @@
 ---
 title: "Hướng dẫn di đăng ký lên văn phòng"
 date: "`r Sys.Date()`"
-weight: 1
+weight: 2
 chapter: false
-pre: " <b> 2.1. </b> "
+pre: " <b> 2.2. </b> "
 ---
 
 ### 📌 Trước khi lên văn phòng
@@ -27,7 +27,7 @@ Các bạn cần đăng ký trước khi lên văn phòng để team admin nắm
 > Vui lòng chỉ sử dụng 1 email duy nhất trong suốt quá trình học tập tại FCJ
 
 #### Thời gian mở đăng ký và quy định đăng ký
-- Form sẽ mở đăng ký từ **17h - 18h** từ **thứ 2 đến thứ 6 và chủ nhật**
+- Form sẽ mở đăng ký từ **16h - 17h** từ **thứ 2 đến thứ 6 và chủ nhật**
 - Ngày hôm nay sẽ đăng ký cho ngày mai.
 - Chủ nhật sẽ đăng ký cho ngày thứ 2 của tuần tiếp theo.
 - Mỗi người chỉ được đăng ký 1 lần duy nhất.

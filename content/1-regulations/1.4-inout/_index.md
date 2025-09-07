@@ -10,7 +10,7 @@ pre: " <b> 1.4. </b> "
 Trong suốt quá trình thực tập tại FCJ, các bạn sẽ có 2 khu vực chính để ngồi và làm việc, đó là **tầng 26** và **tầng 46**:
 
 ### 📌 Quy định di chuyển trong văn phòng
-- **Chỉ di chuyển ra vào bằng cửa chính** (đi ngang qua lễ tân) để checkin (đối với tầng 26)
+- **Chỉ di chuyển ra vào bằng cửa chính** (đi ngang qua lễ tân) để checkin với bảo vệ (chỉ đối với tầng 26)
 - Các hoạt động khác như ăn trưa, đi WC **vui lòng sử dụng các cửa phụ** (chỉ đối với tầng 26)
 - **Không tự ý di chuyển** sang khu vực khác (tầng khác) khi chưa được phép
 - **Hạn chế di chuyển** trong/giữa các khu vực làm việc gây mất trật tự

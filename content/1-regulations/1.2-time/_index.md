@@ -18,12 +18,12 @@ pre: " <b> 1.2. </b> "
 - Thời gian nghỉ trưa linh hoạt từ **12:00 - 13:30**
 - Có thể ra ngoài ăn trưa hoặc nghỉ ngơi tại văn phòng
 - Nếu nghỉ tại văn phòng, cần giữ trật tự, không làm ảnh hưởng đến người khác
-- Thông báo cho mentor hoặc người phụ trách nếu cần nghỉ trưa lâu hơn quy định
+- Thông báo cho mentor hoặc người phụ trách nếu có vấn đề về sức khỏe và cần nghỉ trưa lâu hơn quy định
 
 ### 📌 Một số quy định khác
 
 Để thuận tiện trong việc di chuyển vào/ra tại văn phòng, các bạn vui lòng tuân thủ theo một số vấn đề sau:
-- **Tuyệt đối không** nằm lên bàn, lên ghế, hoặc dưới sàn để ngủ trưa (đối với tầng 26)
+- **Tuyệt đối không** nằm lên bàn, lên ghế, hoặc dưới sàn để ngủ trưa
 - **Không nên** có mặt tại văn phòng **quá sớm** hoặc **quá trễ**
 - Khung giờ hợp lý có mặt tại văn phòng là **08:45**
 - Nếu không có bất kỳ vấn đề gì khác, đúng **17:00** phải rời khỏi văn phòng

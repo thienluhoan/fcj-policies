@@ -1,9 +1,9 @@
 ---
 title: "Hướng dẫn làm báo cáo cuối khóa - Workshop"
 date: "`r Sys.Date()`"
-weight: 7
+weight: 8
 chapter: false
-pre: " <b> 2.7. </b> "
+pre: " <b> 2.8. </b> "
 ---
 
 Để thuận tiện cho team admin chấm điểm và đánh giá kết quả thực tập của các bạn sinh viên trong suốt quá trình thực tập, các bạn sẽ phải làm báo cáo và nộp về team admin trước khi kết thúc thời gian thực tập.

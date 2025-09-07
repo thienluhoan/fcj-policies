@@ -1,9 +1,9 @@
 ---
 title: "Hướng dẫn gửi xe máy"
 date: "`r Sys.Date()`"
-weight: 2
+weight: 3
 chapter: false
-pre: " <b> 2.2. </b> "
+pre: " <b> 2.3. </b> "
 ---
 
 Dưới đây là hướng dẫn gửi xe máy khi các bạn đến văn phòng AWS để học tập và làm việc
@@ -27,7 +27,7 @@ Dưới đây là hướng dẫn gửi xe máy khi các bạn đến văn phòng
   - **Lưu ý:** Phí gửi xe có thể thay đổi tùy theo mỗi thời điểm và theo quy định của bãi gửi xe
 
 #### 2. Bãi gửi xe máy 24/24
-  - **Địa chỉ:** 97 Hồ Tùng Mậu, phường Sài Gòn, TP. Hồ Chí Minh
+  - **Địa chỉ:** 97-99 Hồ Tùng Mậu, phường Sài Gòn, TP. Hồ Chí Minh
 [📍 Xem trên Google Maps](https://www.google.com/maps/place/97+H%E1%BB%93+T%C3%B9ng+M%E1%BA%ADu,+B%E1%BA%BFn+Ngh%C3%A9,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh+71006,+Vi%E1%BB%87t+Nam/@10.7723732,106.7033214,21z/data=!4m6!3m5!1s0x31752f412dd70e33:0x499745dfb3657ad3!8m2!3d10.772306!4d106.703416!16s%2Fg%2F11nnkqlb1y?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D) (gần chính xác)
 
   - **Phí gửi xe tham khảo:**
@@ -37,6 +37,7 @@ Dưới đây là hướng dẫn gửi xe máy khi các bạn đến văn phòng
 
   - **Lưu ý:** Phí gửi xe có thể thay đổi tùy theo mỗi thời điểm và theo quy định của bãi gửi xe
 
+![bai_xe_24/24](/images/2-instructions/parking.png)
 
 #### 3. Bãi Gửi Xe Phố Đi Bộ
   - **Địa chỉ:** 08 Tôn Thất Thiệp, phường Sài Gòn, TP. Hồ Chí Minh
