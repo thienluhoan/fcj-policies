@@ -26,9 +26,8 @@ II. [Hướng dẫn](2-instructions/)
 3.  [Hướng dẫn gửi xe máy](2-instructions/2.3-parking/)
 4.  [Hướng dẫn di chuyển lên văn phòng](2-instructions/2.4-moving/)
 5.  [Hướng dẫn điểm danh](2-instructions/2.5-attendance/)
-6.  [Hướng dẫn mua áo đồng phục](2-instructions/2.6-uniform/)
-7.  [Hướng dẫn dịch blogs](2-instructions/2.7-blogs/)
-8.  [Hướng dẫn làm báo cáo cuối khóa - Workshop](2-instructions/2.8-workshop/)
   
-III. [Xử lý vi phạm](3-violations/)
+III. [Hướng dẫn project](3-project/)
+
+IV. [Xử lý vị phạm](4-violations/)
 

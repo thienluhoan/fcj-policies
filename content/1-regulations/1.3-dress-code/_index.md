@@ -19,13 +19,7 @@ pre: " <b> 1.3. </b> "
 - Trường hợp chưa có áo đồng phục:
   - Mang áo đồng phục của trường (nếu có) hoặc áo bình thường
   - Đeo thẻ sinh viên trong suốt quá trình học tập và làm việc tại văn phòng
-
-### 📌 Quy định về áo FCJ
-
-- Lên văn phòng liên hệ gặp bạn **Thiện Lữ** hoặc **Vũ Hoàng** để nhận áo (nếu đã đăng ký mua trước đó)
-- Có thể mua áo trực tiếp tại văn phòng (nếu chưa đăng ký mua)
-- Khi lên văn phòng thì áo FACJ là bắt buộc đối với những người đã sở hữu
-- Đối với các bạn tham gia chương trình thực tập của trường thì cần đăng ký áo với bên trường
+  - **Lưu ý: Vi phạm sẽ bị trừ điểm phần tác phong.**
 
 ### 📌 Tác phong làm việc
 
@@ -39,3 +33,4 @@ pre: " <b> 1.3. </b> "
   - Nghe nhạc với âm lượng lớn mà không dùng tai nghe
 - Không sử dụng thiết bị công ty vào mục đích cá nhân
 - Tôn trọng không gian làm việc chung và các đồng nghiệp xung quanh
+- **Lưu ý: Vi phạm sẽ bị trừ điểm phần tác phong.**

@@ -29,7 +29,7 @@ Trang web này cung cấp cho các bạn những hướng dẫn làm các bài l
 
    * [First Cloud Journey Bootcamp ↗](https://master.d31mm2rc5713dr.amplifyapp.com/)
 
-Về cơ bản, đây cũng là nội dung trên kênh youtube, tuy nhiên các video bài giảng ở đây được sắp xếp theo đúng lộ trình, đúng theo từng tuần và nội dung được chia nhỏ để các bạn dễ học và quản lý. Sau khi hoàn thành khóa học, các bạn có thể nhận được cert từ **First AI Cloud Journey** (Lưu ý, đây không phải cert quốc tế).
+Về cơ bản, đây cũng là nội dung trên kênh youtube, tuy nhiên các video bài giảng ở đây được sắp xếp theo đúng lộ trình, đúng theo từng tuần và nội dung được chia nhỏ để các bạn dễ học và quản lý. Sau khi hoàn thành khóa học, các bạn có thể nhận được cert từ **First Cloud AI Journey** (Lưu ý, đây không phải cert quốc tế).
 
 Các bạn cần đăng nhập (hoặc đăng ký nếu như chưa có tài khoản) để bắt đầu chương trình học.
 

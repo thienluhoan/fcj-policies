@@ -8,9 +8,10 @@ pre: " <b> 1.1. </b> "
 ---
 
 ### 📌 Điều kiện nhận mộc thực tập
-- Sinh viên thực tập phải đảm bảo lên văn phòng **tối thiểu 12 ngày full time trong vòng 3 tháng**
-- Không đủ số ngày quy định sẽ bị trừ **1.5 điểm** trong kết quả đánh giá thực tập
+- Sinh viên thực tập phải đảm bảo lên văn phòng **tối thiểu 10 ngày full time trong vòng 3 tháng**
+- Việc tham gia Event tối thiểu **4 buổi Event**. Không đủ số buổi trừ 1 điểm trong kết quả đánh giá thực tập.
 - Việc điểm danh được thực hiện dựa trên hệ thống đăng ký và điểm danh tại văn phòng
+- Thực hiện Project theo đúng quy định.
 
 ### 📌 Đi trễ hoặc vắng (đăng ký nhưng không lên)
 - **Đến trễ quá 10 phút** so với giờ quy định (9:00 AM) sẽ được coi là đi trễ
@@ -23,6 +24,6 @@ pre: " <b> 1.1. </b> "
 ### 📌 Tần suất thực tập
 - **Không bắt buộc** phải lên văn phòng hàng ngày
 - Tần suất thực tập tối thiểu: **1 lần/tuần**
-- Tần suất thực tập tối thiểu: **12 lần/3 tháng**
+- Tần suất thực tập tối thiểu: **10 lần/3 tháng**
 - Nên duy trì lịch thực tập đều đặn để đảm bảo tiến độ công việc và đánh giá tốt
 - Sinh viên đã đăng ký lịch cần tuân thủ nghiêm túc để tránh ảnh hưởng đến điểm số

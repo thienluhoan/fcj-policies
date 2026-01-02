@@ -14,7 +14,8 @@ pre: " <b> 1.5. </b> "
 
 ### 📌 Quy định sử dụng đồ dùng văn phòng
 
-**KHÔNG ĐƯỢC PHÉP** sử dụng khu vực ngoài **pantry** của tầng **26** và **46** bao gồm:  
+**Tầng 26:**
+**KHÔNG ĐƯỢC PHÉP** sử dụng khu vực ngoài **pantry** của tầng **26** bao gồm:  
 
 - Nước ngọt
 - Bia, rượu
@@ -26,9 +27,18 @@ pre: " <b> 1.5. </b> "
 - Sữa đặc
 - Sữa tươi
 
+**Tầng 46:**
+**CHỈ ĐƯỢC PHÉP** sử dụng khu vực **ngoài pantry** của **tầng 46** bao gồm:
+- Cà phê
+- Đường
+- Nước lọc
+- Trà
+
+Ngoài những thứ vừa **được liệt kê** trên thì **KHÔNG ĐƯỢC PHÉP** tự ý dùng gì khác.
+
 ### 📌 Các quy định khác
 
-- Các bạn có thể mang nước uống lọc từ bên ngoài vào để uống.
+- Nếu ở tầng 26, các bạn có thể mang nước uống lọc từ bên ngoài vào để uống
 - **Tuyệt đối không được mang** cà phê hoặc các loại nước có màu khác vào vì lí do sàn lại khu vực làm việc là sàn thảm và khó vệ sinh, nếu có thì chi phí vệ sinh rất cao.
 
 {{% notice note %}}

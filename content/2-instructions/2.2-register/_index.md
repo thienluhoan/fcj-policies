@@ -27,7 +27,7 @@ Các bạn cần đăng ký trước khi lên văn phòng để team admin nắm
 > Vui lòng chỉ sử dụng 1 email duy nhất trong suốt quá trình học tập tại FCJ
 
 #### Thời gian mở đăng ký và quy định đăng ký
-- Form sẽ mở đăng ký từ **16h - 17h** từ **thứ 2 đến thứ 6 và chủ nhật**
+- Form sẽ mở đăng ký từ **9h - 17h** từ **thứ 2 đến thứ 6 và chủ nhật**
 - Ngày hôm nay sẽ đăng ký cho ngày mai.
 - Chủ nhật sẽ đăng ký cho ngày thứ 2 của tuần tiếp theo.
 - Mỗi người chỉ được đăng ký 1 lần duy nhất.
