@@ -1,6 +1,6 @@
 ---
 title: "Nội quy - Quy định"
-date: "`r Sys.Date()`"
+2025-01-01: "`r Sys.2025-01-01()`"
 weight: 1
 chapter: false
 ---

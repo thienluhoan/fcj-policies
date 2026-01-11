@@ -1,6 +1,6 @@
 ---
 title: "Quy định về trang phục và tác phong"
-date: "`r Sys.Date()`"
+2025-01-01: "`r Sys.2025-01-01()`"
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "

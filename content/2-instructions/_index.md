@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn"
-date: "`r Sys.Date()`"
+2025-01-01: "`r Sys.2025-01-01()`"
 weight: 2
 chapter: false
 pre: " <b> 2. </b> "

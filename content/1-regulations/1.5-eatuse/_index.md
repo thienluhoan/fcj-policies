@@ -1,6 +1,6 @@
 ---
 title: "Quy định về ăn uống và sử dụng đồ dùng tại văn phòng"
-date: "`r Sys.Date()`"
+2025-01-01: "`r Sys.2025-01-01()`"
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
