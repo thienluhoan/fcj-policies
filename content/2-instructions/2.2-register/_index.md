@@ -12,7 +12,7 @@ Các bạn cần đăng ký trước khi lên văn phòng để team admin nắm
 
 #### Cách thức đăng ký
 
-- Truy cập trang web sau để đăng ký: [Đăng ký lên văn phòng](https://dangky.fcjuni.com).
+- Truy cập trang web sau để đăng ký: [Đăng ký lên văn phòng](https://dangky.FCAJuni.com).
         
 - Giao diện trang sẽ giống như hình sau:
         
@@ -24,7 +24,7 @@ Các bạn cần đăng ký trước khi lên văn phòng để team admin nắm
             
 > Tạm thời tại thời điểm này, các bạn sẽ **không thể chỉnh** được ngày và giờ đăng ký, mặc định là 09:00 của ngày tiếp theo. <br>
 > Ví dụ: Hôm nay là ngày 01/01/2025, các bạn sẽ phải đăng ký cho ngày mai là ngày 02/01/2025 vào lúc 09:00 AM. <br>
-> Vui lòng chỉ sử dụng 1 email duy nhất trong suốt quá trình học tập tại FCJ
+> Vui lòng chỉ sử dụng 1 email duy nhất trong suốt quá trình học tập tại FCAJ
 
 #### Thời gian mở đăng ký và quy định đăng ký
 - Form sẽ mở đăng ký từ **9h - 17h** từ **thứ 2 đến thứ 6 và chủ nhật**

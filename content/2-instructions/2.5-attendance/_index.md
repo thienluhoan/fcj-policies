@@ -12,7 +12,7 @@ pre: " <b> 2.5. </b> "
 
 - Hình thức điểm danh: Online.
 
-- Trang web điểm danh: [Điểm danh](https://diemdanh.fcjuni.com)
+- Trang web điểm danh: [Điểm danh](https://diemdanh.FCAJuni.com)
 
 - Thời giam điểm danh: 14:00 - 17:00 cùng ngày.
 

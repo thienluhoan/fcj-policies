@@ -12,11 +12,11 @@ pre: " <b> 2.1. </b> "
 
    * [Kênh Youtube AWS Study Group ↗](https://www.youtube.com/@AWSStudyGroup) 
 
-   * [Bài giảng: First Cloud Journey Bootcamp 2025 ↗](https://www.youtube.com/watch?v=AQlsd0nWdZk&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i)
+   * [Bài giảng: First Cloud AI Journey Bootcamp 2025 ↗](https://www.youtube.com/watch?v=AQlsd0nWdZk&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i)
 
 #### Hệ thống các bài lab - Tài liệu làm lab
 
-   * [The First Cloud Journey ↗](https://cloudjourney.awsstudygroup.com/)
+   * [The First Cloud AI Journey ↗](https://cloudjourney.awsstudygroup.com/)
 
 Trang web này cung cấp cho các bạn những hướng dẫn làm các bài lab có trong chương trình.
 
@@ -25,9 +25,9 @@ Trang web này cung cấp cho các bạn những hướng dẫn làm các bài l
 {{% /notice %}}
 
 
-#### Platform First Cloud Journey Bootcamp
+#### Platform First Cloud AI Journey Bootcamp
 
-   * [First Cloud Journey Bootcamp ↗](https://master.d31mm2rc5713dr.amplifyapp.com/)
+   * [First Cloud AI Journey Bootcamp ↗](https://master.d31mm2rc5713dr.amplifyapp.com/)
 
 Về cơ bản, đây cũng là nội dung trên kênh youtube, tuy nhiên các video bài giảng ở đây được sắp xếp theo đúng lộ trình, đúng theo từng tuần và nội dung được chia nhỏ để các bạn dễ học và quản lý. Sau khi hoàn thành khóa học, các bạn có thể nhận được cert từ **First Cloud AI Journey** (Lưu ý, đây không phải cert quốc tế).
 

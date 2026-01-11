@@ -7,7 +7,7 @@ pre: " <b> 1.4. </b> "
 
 ---
 
-Trong suốt quá trình thực tập tại FCJ, các bạn sẽ có 2 khu vực chính để ngồi và làm việc, đó là **tầng 26** và **tầng 46**:
+Trong suốt quá trình thực tập tại FCAJ, các bạn sẽ có 2 khu vực chính để ngồi và làm việc, đó là **tầng 26** và **tầng 46**:
 
 ### 📌 Quy định di chuyển trong văn phòng
 - **Chỉ di chuyển ra vào bằng cửa chính** (đi ngang qua lễ tân) để checkin với bảo vệ (chỉ đối với tầng 26)
@@ -22,6 +22,6 @@ Trong suốt quá trình thực tập tại FCJ, các bạn sẽ có 2 khu vực
 ### 📌 Bảo quản tài sản văn phòng
 - Sinh viên chịu trách nhiệm bảo quản các thiết bị được cấp phát (nếu có)
 - Không tự ý di chuyển, thay đổi vị trí bàn ghế, trang thiết bị nếu không được yêu cầu
-- **Báo cáo ngay cho người quản lý** (lễ tân hoặc team admin FCJ) khi phát hiện hư hỏng, mất mát tài sản
+- **Báo cáo ngay cho người quản lý** (lễ tân hoặc team admin FCAJ) khi phát hiện hư hỏng, mất mát tài sản
 - Tắt các thiết bị điện, máy tính khi không sử dụng hoặc khi rời khỏi văn phòng
 - Có thể bị yêu cầu bồi thường nếu làm hư hỏng tài sản do lỗi cá nhân
