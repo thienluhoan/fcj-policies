@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn gửi xe máy"
-2025-01-01: "`r Sys.2025-01-01()`"
+Date: "`r Sys.Date()`"
 weight: 3
 chapter: false
 pre: " <b> 2.3. </b> "

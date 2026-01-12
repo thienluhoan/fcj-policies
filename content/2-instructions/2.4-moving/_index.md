@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn di chuyển lên văn phòng"
-2025-01-01: "`r Sys.2025-01-01()`"
+Date: "`r Sys.Date()`"
 weight: 4
 chapter: false
 pre: " <b> 2.4. </b> "

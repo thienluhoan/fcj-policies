@@ -1,6 +1,6 @@
 ---
 title: "Các nguồn tài liệu học tập"
-2025-01-01: "`r Sys.2025-01-01()`"
+Date: "`r Sys.Date()`"
 weight: 1
 chapter: false
 pre: " <b> 2.1. </b> "
@@ -21,7 +21,7 @@ pre: " <b> 2.1. </b> "
 Trang web này cung cấp cho các bạn những hướng dẫn làm các bài lab có trong chương trình.
 
 {{% notice note %}}
-**Lưu ý:** Có những bài lab đã bị out2025-01-01, team sẽ up2025-01-01 trong thời gian sớm.
+**Lưu ý:** Có những bài lab đã bị outDate, team sẽ upDate trong thời gian sớm.
 {{% /notice %}}
 
 
@@ -34,5 +34,5 @@ Về cơ bản, đây cũng là nội dung trên kênh youtube, tuy nhiên các 
 Các bạn cần đăng nhập (hoặc đăng ký nếu như chưa có tài khoản) để bắt đầu chương trình học.
 
 {{% notice note %}}
-**Lưu ý:** Hiện tại hệ thống bài giảng trên đây chưa được đầy đủ, team sẽ tiếp tục up2025-01-01 thêm trong thời gian tới.
+**Lưu ý:** Hiện tại hệ thống bài giảng trên đây chưa được đầy đủ, team sẽ tiếp tục upDate thêm trong thời gian tới.
 {{% /notice %}}

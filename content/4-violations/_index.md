@@ -1,6 +1,6 @@
 ---
 title: "Xử lý vi phạm"
-2025-01-01: "`r Sys.2025-01-01()`"
+Date: "`r Sys.Date()`"
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
