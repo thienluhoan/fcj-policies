@@ -1,6 +1,6 @@
 ---
 title: "Quy định về chuyên cần và điểm danh"
-Date: "`r Sys.Date()`"
+date: "`r Sys.Date()`"
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "

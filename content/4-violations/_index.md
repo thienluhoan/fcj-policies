@@ -1,6 +1,6 @@
 ---
 title: "Xử lý vi phạm"
-Date: "`r Sys.Date()`"
+date: "`r Sys.Date()`"
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "

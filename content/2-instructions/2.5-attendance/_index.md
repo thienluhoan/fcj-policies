@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn điểm danh"
-Date: "`r Sys.Date()`"
+date: "`r Sys.Date()`"
 weight: 5
 chapter: false
 pre: " <b> 2.5. </b> "

@@ -1,6 +1,6 @@
 ---
 title: "Nội quy - Quy định"
-Date: "`r Sys.Date()`"
+date: "`r Sys.Date()`"
 weight: 1
 chapter: false
 ---
