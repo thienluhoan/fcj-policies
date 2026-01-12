@@ -1,6 +1,6 @@
 ---
 title: "Quy định về project"
-date: "`r Sys.Date()`"
+date: 2025-01-12
 weight: 3
 chapter: false
 pre: " <b> 3. </b> "

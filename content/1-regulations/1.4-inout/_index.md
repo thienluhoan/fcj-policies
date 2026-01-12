@@ -1,6 +1,6 @@
 ---
 title: "Quy định về ra vào văn phòng"
-date: "`r Sys.Date()`"
+date: 2025-01-12
 weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "

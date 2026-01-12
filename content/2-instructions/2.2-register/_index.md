@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn di đăng ký lên văn phòng"
-date: "`r Sys.Date()`"
+date: 2025-01-12
 weight: 2
 chapter: false
 pre: " <b> 2.2. </b> "
