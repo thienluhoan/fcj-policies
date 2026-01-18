@@ -1,4 +1,4 @@
-baseURL = "https://thienluhoan.github.io/fcj-policies/"
+baseURL = "https://rules.fcjuni.com"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "vi"
